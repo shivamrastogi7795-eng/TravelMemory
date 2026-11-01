@@ -1,1 +1,1 @@
-export const baseUrl = process.env.REACT_APP_BACKEND_URL || "http://localhost:3001";
+export const baseUrl = "http://tm-backend-lb-1929665915.ap-southeast-2.elb.amazonaws.com";
